@@ -1,0 +1,17 @@
+{
+  "name": "02-base-node",
+  "version": "1.0.0",
+  "description": "Esta é uma aplicação de linha de comando",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emil Monteiro",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^16.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.5"
+  }
+}
